@@ -12,7 +12,8 @@ A modular, production-ready backend for analyzing Detailed Project Reports (DPRs
 * Report generation (JSON + PDF)
 * Database logging of submissions
 * Modular architecture for easy scaling
-* Fully typed API using Pydantic
+* Fully typed API using Pydantic|
+* takes dpr and gives summary
 
 ---
 
@@ -201,3 +202,4 @@ MIT
 ---
 
 If you need more templates (CI/CD, Docker Compose, API examples, or full architecture diagrams), just ask.
+
